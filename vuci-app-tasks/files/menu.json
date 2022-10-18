@@ -1,0 +1,12 @@
+{
+  "tasks": {
+    "title": "Tasks",
+    "index": 110
+  },
+  "tasks/first_task": {
+    "title": "First Task",
+    "view": "vuci-app-tasks",
+    "files": ["/etc/config/task"],
+    "index": 10
+  }
+}
